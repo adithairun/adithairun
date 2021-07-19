@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hey 👋, This is Aditya Nugraha Hairun
 [![Github Badge](https://img.shields.io/badge/-adithairun-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adithairun/)](https://www.github.com/adithairun/) [![Twitter Badge](https://img.shields.io/badge/-AdityaHairun-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AdityaHairun/)](https://www.twitter.com/AdityaHairun/)
-[Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithairun/)
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | `https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white`
 <p align='left'>Bila kau tak tahan lelahnya belajar, maka kau harus tahan menanggung perihnya kebodohan. <i>Terus belajar sampai maut menjemput </i>.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=adithairun alt=adithairun /> </p>
