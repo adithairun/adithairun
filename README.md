@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **adithairun/adithairun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, This is Aditya Nugraha Hairun
+## Hey 👋 <!-- This is Aditya Nugraha Hairun -->
 [![Github Badge](https://img.shields.io/badge/-adithairun-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adithairun/)](https://www.github.com/adithairun/) [![Twitter Badge](https://img.shields.io/badge/-AdityaHairun-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AdityaHairun/)](https://www.twitter.com/AdityaHairun/)
 
 
