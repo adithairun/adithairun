@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adithairun/)
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> 
 
+[![Instagram Badge](https://img.shields.io/badge/-adithairun-red?style=flat&logo=fb&logoColor=white&link=https://instagram.com/adithairun/)](https://www.instagram.com/adithairun/)
+
 [![Instagram Badge](https://img.shields.io/badge/-adithairun-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adithairun/)](https://www.instagram.com/adithairun/)
 <p align='left'>Bila kau tak tahan lelahnya belajar, maka kau harus tahan menanggung perihnya kebodohan. <i>Terus belajar sampai maut menjemput </i>.</p>
 ## Some of my Github Stats
