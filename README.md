@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hey 👋 <!-- This is Aditya Nugraha Hairun -->
 [![Github Badge](https://img.shields.io/badge/-adithairun-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adithairun/)](https://www.github.com/adithairun/) [![Twitter Badge](https://img.shields.io/badge/-AdityaHairun-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AdityaHairun/)](https://www.twitter.com/AdityaHairun/)
-[![Instagram Badge](https://img.shields.io/badge/-adithairun-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adithairun/)](https://www.instagram.com/adithairun/) [![Facebook Badge](https://img.shields.io/badge/-adithairun-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/adithairun/)](https://www.facebook.com/AdityaHairun/)
+[![Instagram Badge](https://img.shields.io/badge/-adithairun-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adithairun/)](https://www.instagram.com/adithairun/) [![Facebook Badge](https://img.shields.io/badge/-adithairun-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/adithairun/)](https://www.facebook.com/adithairun/)
 
 <!--
 [![Facebook Badge](https://img.shields.io/badge/-adithairun-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/adithairun/)](https://www.facebook.com/adithairun/)
