@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-adithairun-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adithairun/)](https://www.github.com/adithairun/) [![Twitter Badge](https://img.shields.io/badge/-AdityaHairun-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AdityaHairun/)](https://www.twitter.com/AdityaHairun/)
 
 
-[![Instagram Badge](https://img.shields.io/badge/-adithairun-red?style=flat&logo=facebook&logoColor=white&link=https://instagram.com/adithairun/)](https://www.instagram.com/adithairun/)
+[![Facebook Badge](https://img.shields.io/badge/-adithairun-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/adithairun/)](https://www.facebook.com/adithairun/)
 
 [![Instagram Badge](https://img.shields.io/badge/-adithairun-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adithairun/)](https://www.instagram.com/adithairun/)
 <p align='left'>Bila kau tak tahan lelahnya belajar, maka kau harus tahan menanggung perihnya kebodohan. <i>Terus belajar sampai maut menjemput </i>.</p>
